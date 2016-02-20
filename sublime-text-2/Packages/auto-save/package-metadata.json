@@ -1,0 +1,1 @@
+{"description": "Automatically saves the current file after every modification", "url": "https://github.com/jamesfzhang/auto-save", "platforms": ["*"], "version": "1.0.7", "sublime_text": "*", "dependencies": []}

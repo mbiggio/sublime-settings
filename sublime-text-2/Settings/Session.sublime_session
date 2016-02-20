@@ -1,0 +1,1759 @@
+{
+	"folder_history":
+	[
+		"/home/someone/workspace/6.828/lab",
+		"/home/someone/workspace/xv6",
+		"/home/anton/workspace/6.828/lab",
+		"/home/anton/workspace/6.828-benwei",
+		"/home/anton/workspace/xv6",
+		"/home/anton/workspace/6.828-lewis",
+		"/home/anton/workspace/6.828",
+		"/home/anton/workspace/6.828-copy1",
+		"/home/anton/workspace/presto-hands-on"
+	],
+	"last_window_id": 22,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 381.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 311.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/someone/workspace/6.828/lab/inc/syscall.h",
+				"/home/someone/workspace/6.828/lab/kern/init.c",
+				"/home/someone/workspace/6.828/lab/user/icode.c",
+				"/home/someone/workspace/6.828/lab/GNUmakefile",
+				"/home/someone/workspace/6.828/lab/user/Makefrag",
+				"/home/someone/workspace/6.828/lab/lib/Makefrag",
+				"/home/someone/workspace/6.828/lab/kern/Makefrag",
+				"/home/someone/workspace/6.828/lab/boot/Makefrag",
+				"/home/someone/workspace/6.828/lab/conf/env.mk",
+				"/home/someone/workspace/6.828/lab/conf/lab.mk",
+				"/home/someone/workspace/6.828/lab/inc/kbdreg.h",
+				"/home/someone/workspace/6.828/lab/kern/lapic.c",
+				"/home/someone/workspace/6.828/lab/kern/cpu.h",
+				"/home/someone/workspace/6.828/lab/kern/trap.c",
+				"/home/someone/workspace/6.828/lab/kern/env.h",
+				"/home/someone/workspace/6.828/lab/kern/console.c",
+				"/home/someone/workspace/6.828/lab/inc/env.h",
+				"/home/someone/workspace/6.828/lab/lib/readline.c",
+				"/home/someone/workspace/6.828/lab/user/sh.c",
+				"/home/someone/workspace/6.828/lab/lib/syscall.c",
+				"/home/someone/workspace/6.828/lab/lib/exit.c",
+				"/home/someone/workspace/6.828/lab/kern/env.c",
+				"/home/someone/workspace/6.828/lab/lib/string.c",
+				"/home/someone/workspace/6.828/lab/inc/trap.h",
+				"/home/someone/workspace/6.828/lab/inc/types.h",
+				"/home/someone/workspace/6.828/lab/lib/libmain.c",
+				"/home/someone/workspace/6.828/lab/user/ls.c",
+				"/home/someone/workspace/6.828/lab/user/lsfd.c",
+				"/home/someone/workspace/6.828/lab/inc/lib.h",
+				"/home/someone/workspace/6.828/lab/user/num.c",
+				"/home/someone/workspace/6.828/lab/obj/user/init",
+				"/home/someone/workspace/6.828/lab/user/init.c",
+				"/home/someone/workspace/6.828/lab/lib/wait.c",
+				"/home/someone/workspace/6.828/lab/lib/spawn.c",
+				"/home/someone/workspace/6.828/lab/user/faultdie.c",
+				"/home/someone/workspace/6.828/lab/user/forktree.c",
+				"/home/someone/workspace/6.828/lab/user/spin.c",
+				"/home/someone/workspace/6.828/lab/user/testpteshare.c",
+				"/home/someone/workspace/6.828/lab/user/testfdsharing.c",
+				"/home/someone/workspace/6.828/lab/user/testpipe.c",
+				"/home/someone/workspace/6.828/lab/user/testpiperace.c",
+				"/home/someone/workspace/6.828/lab/user/testpiperace2.c",
+				"/home/someone/workspace/6.828/lab/obj/kern/kernel.asm",
+				"/home/someone/workspace/6.828/lab/inc/fs.h",
+				"/home/anton/workspace/6.828/lab/kern/env.h",
+				"/home/anton/workspace/6.828/lab/solutions/lab5.md",
+				"/home/anton/workspace/6.828/lab/user/yield.c",
+				"/home/anton/workspace/6.828/hw9/barrier.c",
+				"/home/anton/workspace/6.828/lab/inc/x86.h",
+				"/home/anton/workspace/6.828/lab/kern/picirq.c",
+				"/home/anton/workspace/6.828/lab/user/spin.c",
+				"/home/anton/workspace/6.828/lab/kern/cpu.h",
+				"/home/anton/workspace/6.828/lab/lib/ipc.c",
+				"/home/anton/workspace/6.828/lab/user/sendpage.c",
+				"/home/anton/workspace/6.828/lab/user/forktree.c",
+				"/home/anton/workspace/6.828/lab/lib/entry.S",
+				"/home/anton/workspace/6.828/lab/lib/pfentry.S",
+				"/home/anton/workspace/6.828/lab/obj/user/dumbfork.asm",
+				"/home/anton/workspace/6.828/lab/inc/fs.h",
+				"/home/anton/workspace/6.828/lab/GNUmakefile",
+				"/home/anton/workspace/6.828/lab/kern/syscall.h",
+				"/home/anton/workspace/6.828/lab/inc/lib.h",
+				"/home/anton/workspace/6.828/lab/kern/entry.S",
+				"/home/anton/workspace/6.828/lab/kern/mpentry.S",
+				"/home/anton/workspace/6.828/lab/kern/trapentry.S",
+				"/home/anton/workspace/6.828/lab/lib/readline.c",
+				"/home/anton/workspace/xv6/vectors.S",
+				"/home/anton/workspace/xv6/kalloc.c",
+				"/home/anton/workspace/xv6/elf.h",
+				"/home/anton/workspace/xv6/initcode.S",
+				"/home/anton/workspace/xv6/fs.c",
+				"/home/anton/workspace/xv6/exec.c",
+				"/home/anton/workspace/xv6/memlayout.h",
+				"/home/anton/workspace/xv6/vm.c",
+				"/home/anton/workspace/xv6/ide.c",
+				"/home/anton/workspace/xv6/timer.c",
+				"/home/anton/workspace/xv6/x86.h",
+				"/home/anton/workspace/xv6/syscall.c",
+				"/home/anton/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/anton/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/anton/workspace/xv6/log.c",
+				"/home/anton/workspace/xv6/mmu.h",
+				"/home/anton/workspace/xv6/entry.S",
+				"/home/anton/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+				"/home/anton/workspace/xv6/date.asm",
+				"/home/anton/workspace/xv6/buf.h",
+				"/home/anton/.config/sublime-text-2/Packages/auto-save/README.md",
+				"/home/anton/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dirent",
+					"user/sh",
+					"destroy",
+					"exit",
+					"destroy",
+					"env_all",
+					"load_ic",
+					"env_alloc",
+					"sys_page_alloc",
+					"user_mem",
+					"icode",
+					"thread_switch",
+					"all_thread",
+					"read_eip",
+					"PGSI",
+					"LAB 3",
+					"boot_map_regio",
+					"boot_map_reio",
+					"boot_map",
+					"allocpro"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.493798221161,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"wait",
+						"lib/wait.c"
+					],
+					[
+						"consol",
+						"kern/console.c"
+					],
+					[
+						"trap",
+						"kern/trap.c"
+					],
+					[
+						"env",
+						"kern/env.c"
+					],
+					[
+						"user/sh.",
+						"user/sh.c"
+					],
+					[
+						"user/init.",
+						"user/init.c"
+					],
+					[
+						"env.c",
+						"kern/env.c"
+					],
+					[
+						"kern/consol",
+						"kern/console.c"
+					],
+					[
+						"console.",
+						"lib/console.c"
+					],
+					[
+						"console",
+						"kern/console.c"
+					],
+					[
+						"sh.c",
+						"user/sh.c"
+					],
+					[
+						"trap.c",
+						"kern/trap.c"
+					],
+					[
+						"",
+						"user/init.c"
+					],
+					[
+						"user/ini",
+						"user/init.c"
+					],
+					[
+						"user/sh.c",
+						"user/sh.c"
+					],
+					[
+						"spawn",
+						"lib/spawn.c"
+					],
+					[
+						"sched.c",
+						"kern/sched.c"
+					],
+					[
+						"types",
+						"inc/types.h"
+					],
+					[
+						"inc/li",
+						"inc/lib.h"
+					],
+					[
+						"init",
+						"obj/user/init"
+					],
+					[
+						"env.h",
+						"lab/kern/env.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/someone/workspace/xv6/ide.c",
+					"settings":
+					{
+						"buffer_size": 3221,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/sysproc.c",
+					"settings":
+					{
+						"buffer_size": 1447,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/kalloc.c",
+					"settings":
+					{
+						"buffer_size": 2090,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/kernel.asm",
+					"settings":
+					{
+						"buffer_size": 660181,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/trap.c",
+					"settings":
+					{
+						"buffer_size": 3402,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/fs.c",
+					"settings":
+					{
+						"buffer_size": 15884,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/bio.c",
+					"settings":
+					{
+						"buffer_size": 3393,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/pipe.c",
+					"settings":
+					{
+						"buffer_size": 2380,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/file.c",
+					"settings":
+					{
+						"buffer_size": 2791,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/sysfile.c",
+					"settings":
+					{
+						"buffer_size": 7274,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/memlayout.h",
+					"settings":
+					{
+						"buffer_size": 828,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/main.c",
+					"settings":
+					{
+						"buffer_size": 3388,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/vm.c",
+					"settings":
+					{
+						"buffer_size": 9573,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/mkfs.c",
+					"settings":
+					{
+						"buffer_size": 5925,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/proc.c",
+					"settings":
+					{
+						"buffer_size": 10179,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/swtch.S",
+					"settings":
+					{
+						"buffer_size": 461,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/proc.h",
+					"settings":
+					{
+						"buffer_size": 3193,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/trapasm.S",
+					"settings":
+					{
+						"buffer_size": 557,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/log.c",
+					"settings":
+					{
+						"buffer_size": 5722,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/buf.h",
+					"settings":
+					{
+						"buffer_size": 340,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/someone/workspace/xv6/fs.h",
+					"settings":
+					{
+						"buffer_size": 1658,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 381.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 311.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/someone/workspace/xv6/initcode.S",
+				"/home/someone/workspace/xv6/file.h",
+				"/home/someone/workspace/xv6/stat.h",
+				"/home/someone/workspace/xv6/fs.c",
+				"/home/someone/workspace/xv6/spinlock.c",
+				"/home/someone/workspace/xv6/syscall.c",
+				"/home/someone/workspace/xv6/memlayout.h",
+				"/home/someone/workspace/xv6/proc.c",
+				"/home/someone/workspace/xv6/spinlock.h",
+				"/home/someone/workspace/xv6/proc.h",
+				"/home/someone/workspace/xv6/mmu.h",
+				"/home/someone/workspace/xv6/init.c",
+				"/home/someone/workspace/xv6/initcode",
+				"/home/someone/workspace/xv6/swtch.S",
+				"/home/someone/workspace/6.828/lab/inc/syscall.h",
+				"/home/someone/workspace/6.828/lab/kern/init.c",
+				"/home/someone/workspace/6.828/lab/user/icode.c",
+				"/home/someone/workspace/6.828/lab/GNUmakefile",
+				"/home/someone/workspace/6.828/lab/user/Makefrag",
+				"/home/someone/workspace/6.828/lab/lib/Makefrag",
+				"/home/someone/workspace/6.828/lab/kern/Makefrag",
+				"/home/someone/workspace/6.828/lab/boot/Makefrag",
+				"/home/someone/workspace/6.828/lab/conf/env.mk",
+				"/home/someone/workspace/6.828/lab/conf/lab.mk",
+				"/home/someone/workspace/6.828/lab/inc/kbdreg.h",
+				"/home/someone/workspace/6.828/lab/kern/lapic.c",
+				"/home/someone/workspace/6.828/lab/kern/cpu.h",
+				"/home/someone/workspace/6.828/lab/kern/trap.c",
+				"/home/someone/workspace/6.828/lab/kern/env.h",
+				"/home/someone/workspace/6.828/lab/kern/console.c",
+				"/home/someone/workspace/6.828/lab/inc/env.h",
+				"/home/someone/workspace/6.828/lab/lib/readline.c",
+				"/home/someone/workspace/6.828/lab/user/sh.c",
+				"/home/someone/workspace/6.828/lab/lib/syscall.c",
+				"/home/someone/workspace/6.828/lab/lib/exit.c",
+				"/home/someone/workspace/6.828/lab/kern/env.c",
+				"/home/someone/workspace/6.828/lab/lib/string.c",
+				"/home/someone/workspace/6.828/lab/inc/trap.h",
+				"/home/someone/workspace/6.828/lab/inc/types.h",
+				"/home/someone/workspace/6.828/lab/lib/libmain.c",
+				"/home/someone/workspace/6.828/lab/user/ls.c",
+				"/home/someone/workspace/6.828/lab/user/lsfd.c",
+				"/home/someone/workspace/6.828/lab/inc/lib.h",
+				"/home/someone/workspace/6.828/lab/user/num.c",
+				"/home/someone/workspace/6.828/lab/obj/user/init",
+				"/home/someone/workspace/6.828/lab/user/init.c",
+				"/home/someone/workspace/6.828/lab/lib/wait.c",
+				"/home/someone/workspace/6.828/lab/lib/spawn.c",
+				"/home/someone/workspace/6.828/lab/user/faultdie.c",
+				"/home/someone/workspace/6.828/lab/user/forktree.c",
+				"/home/someone/workspace/6.828/lab/user/spin.c",
+				"/home/someone/workspace/6.828/lab/user/testpteshare.c",
+				"/home/someone/workspace/6.828/lab/user/testfdsharing.c",
+				"/home/someone/workspace/6.828/lab/user/testpipe.c",
+				"/home/someone/workspace/6.828/lab/user/testpiperace.c",
+				"/home/someone/workspace/6.828/lab/user/testpiperace2.c",
+				"/home/someone/workspace/6.828/lab/obj/kern/kernel.asm",
+				"/home/someone/workspace/6.828/lab/inc/fs.h",
+				"/home/anton/workspace/6.828/lab/kern/env.h",
+				"/home/anton/workspace/6.828/lab/solutions/lab5.md",
+				"/home/anton/workspace/6.828/lab/user/yield.c",
+				"/home/anton/workspace/6.828/hw9/barrier.c",
+				"/home/anton/workspace/6.828/lab/inc/x86.h",
+				"/home/anton/workspace/6.828/lab/kern/picirq.c",
+				"/home/anton/workspace/6.828/lab/user/spin.c",
+				"/home/anton/workspace/6.828/lab/kern/cpu.h",
+				"/home/anton/workspace/6.828/lab/lib/ipc.c",
+				"/home/anton/workspace/6.828/lab/user/sendpage.c",
+				"/home/anton/workspace/6.828/lab/user/forktree.c",
+				"/home/anton/workspace/6.828/lab/lib/entry.S",
+				"/home/anton/workspace/6.828/lab/lib/pfentry.S",
+				"/home/anton/workspace/6.828/lab/obj/user/dumbfork.asm",
+				"/home/anton/workspace/6.828/lab/inc/fs.h",
+				"/home/anton/workspace/6.828/lab/GNUmakefile",
+				"/home/anton/workspace/6.828/lab/kern/syscall.h",
+				"/home/anton/workspace/6.828/lab/inc/lib.h",
+				"/home/anton/workspace/6.828/lab/kern/entry.S",
+				"/home/anton/workspace/6.828/lab/kern/mpentry.S",
+				"/home/anton/workspace/6.828/lab/kern/trapentry.S",
+				"/home/anton/workspace/6.828/lab/lib/readline.c",
+				"/home/anton/workspace/xv6/vectors.S",
+				"/home/anton/workspace/xv6/kalloc.c",
+				"/home/anton/workspace/xv6/elf.h",
+				"/home/anton/workspace/xv6/initcode.S",
+				"/home/anton/workspace/xv6/fs.c",
+				"/home/anton/workspace/xv6/exec.c",
+				"/home/anton/workspace/xv6/memlayout.h",
+				"/home/anton/workspace/xv6/vm.c",
+				"/home/anton/workspace/xv6/ide.c",
+				"/home/anton/workspace/xv6/timer.c",
+				"/home/anton/workspace/xv6/x86.h",
+				"/home/anton/workspace/xv6/syscall.c",
+				"/home/anton/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/anton/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/anton/workspace/xv6/log.c",
+				"/home/anton/workspace/xv6/mmu.h",
+				"/home/anton/workspace/xv6/entry.S",
+				"/home/anton/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+				"/home/anton/workspace/xv6/date.asm",
+				"/home/anton/workspace/xv6/buf.h",
+				"/home/anton/.config/sublime-text-2/Packages/auto-save/README.md",
+				"/home/anton/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"swit",
+					"stat",
+					"initlo",
+					"outstanding",
+					"dirlink",
+					"swtch",
+					"dirent",
+					"user/sh",
+					"destroy",
+					"exit",
+					"destroy",
+					"env_all",
+					"load_ic",
+					"env_alloc",
+					"sys_page_alloc",
+					"user_mem",
+					"icode",
+					"thread_switch",
+					"all_thread",
+					"read_eip",
+					"PGSI",
+					"LAB 3",
+					"boot_map_regio",
+					"boot_map_reio",
+					"boot_map",
+					"allocpro"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/someone/workspace/xv6"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/someone/workspace/xv6/ide.c",
+							"settings":
+							{
+								"buffer_size": 3221,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2844,
+										2844
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2274.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/someone/workspace/xv6/sysproc.c",
+							"settings":
+							{
+								"buffer_size": 1447,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										533,
+										533
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 969.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/someone/workspace/xv6/kalloc.c",
+							"settings":
+							{
+								"buffer_size": 2090,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1407,
+										1407
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1425.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/someone/workspace/xv6/kernel.asm",
+							"settings":
+							{
+								"buffer_size": 660181,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										363695,
+										363695
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 170569.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/someone/workspace/xv6/trap.c",
+							"settings":
+							{
+								"buffer_size": 3402,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 171.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/someone/workspace/xv6/fs.c",
+							"settings":
+							{
+								"buffer_size": 15884,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1957,
+										1957
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1496.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/home/someone/workspace/xv6/trap.c",
+							"settings":
+							{
+								"buffer_size": 3402,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1112,
+										1112
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 637.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/someone/workspace/xv6/bio.c",
+							"settings":
+							{
+								"buffer_size": 3393,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2124,
+										2124
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1222.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/someone/workspace/xv6/pipe.c",
+							"settings":
+							{
+								"buffer_size": 2380,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										798,
+										798
+									],
+									[
+										1886,
+										1886
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1824.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/someone/workspace/xv6/file.c",
+							"settings":
+							{
+								"buffer_size": 2791,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2133,
+										2133
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2508.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/someone/workspace/xv6/sysfile.c",
+							"settings":
+							{
+								"buffer_size": 7274,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2031,
+										2031
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2590.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/someone/workspace/xv6/fs.c",
+							"settings":
+							{
+								"buffer_size": 15884,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8718,
+										8718
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6778.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 10,
+							"file": "/home/someone/workspace/xv6/memlayout.h",
+							"settings":
+							{
+								"buffer_size": 828,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										651,
+										648
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 120.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/someone/workspace/xv6/sysfile.c",
+							"settings":
+							{
+								"buffer_size": 7274,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1171,
+										1171
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1292.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/someone/workspace/xv6/main.c",
+							"settings":
+							{
+								"buffer_size": 3388,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1062,
+										1062
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 451.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/someone/workspace/xv6/vm.c",
+							"settings":
+							{
+								"buffer_size": 9573,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4589,
+										4580
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2769.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/someone/workspace/xv6/mkfs.c",
+							"settings":
+							{
+								"buffer_size": 5925,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58,
+										58
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/someone/workspace/xv6/proc.c",
+							"settings":
+							{
+								"buffer_size": 10179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6328,
+										6328
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5022.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/home/someone/workspace/xv6/swtch.S",
+							"settings":
+							{
+								"buffer_size": 461,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										460,
+										460
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/R/R.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 171.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/home/someone/workspace/xv6/proc.h",
+							"settings":
+							{
+								"buffer_size": 3193,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/someone/workspace/xv6/bio.c",
+							"settings":
+							{
+								"buffer_size": 3393,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2776,
+										2776
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 63.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 17,
+							"file": "/home/someone/workspace/xv6/trapasm.S",
+							"settings":
+							{
+								"buffer_size": 557,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/R/R.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/home/someone/workspace/xv6/log.c",
+							"settings":
+							{
+								"buffer_size": 5722,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3142,
+										3142
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2172.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/home/someone/workspace/xv6/buf.h",
+							"settings":
+							{
+								"buffer_size": 340,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										19
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 20,
+							"file": "/home/someone/workspace/xv6/fs.h",
+							"settings":
+							{
+								"buffer_size": 1658,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1132,
+										1132
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/someone/workspace/xv6/mkfs.c",
+							"settings":
+							{
+								"buffer_size": 5925,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3667.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/someone/workspace/xv6/bio.c",
+							"settings":
+							{
+								"buffer_size": 3393,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3001,
+										3001
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2210.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.493798221161,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"position": "0,1,0,0,0,0,27,640,507,1920,1080",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"fs.c",
+						"fs.c"
+					],
+					[
+						"bio.c",
+						"bio.c"
+					],
+					[
+						"proc.",
+						"proc.c"
+					],
+					[
+						"proc.c",
+						"proc.c"
+					],
+					[
+						"mkfs",
+						"mkfs.c"
+					],
+					[
+						"",
+						"buf.h"
+					],
+					[
+						"bio",
+						"bio.c"
+					],
+					[
+						"sysfile",
+						"sysfile.c"
+					],
+					[
+						"memla",
+						"memlayout.h"
+					],
+					[
+						"vm.c",
+						"vm.c"
+					],
+					[
+						"main",
+						"main.c"
+					],
+					[
+						"init.c",
+						"init.c"
+					],
+					[
+						"init",
+						"initcode"
+					],
+					[
+						"sysfile.",
+						"sysfile.c"
+					],
+					[
+						"file.c",
+						"file.c"
+					],
+					[
+						"proc",
+						"proc.c"
+					],
+					[
+						"trap",
+						"trap.c"
+					],
+					[
+						"wait",
+						"lib/wait.c"
+					],
+					[
+						"consol",
+						"kern/console.c"
+					],
+					[
+						"env",
+						"kern/env.c"
+					],
+					[
+						"user/sh.",
+						"user/sh.c"
+					],
+					[
+						"user/init.",
+						"user/init.c"
+					],
+					[
+						"env.c",
+						"kern/env.c"
+					],
+					[
+						"kern/consol",
+						"kern/console.c"
+					],
+					[
+						"console.",
+						"lib/console.c"
+					],
+					[
+						"console",
+						"kern/console.c"
+					],
+					[
+						"sh.c",
+						"user/sh.c"
+					],
+					[
+						"trap.c",
+						"kern/trap.c"
+					],
+					[
+						"user/ini",
+						"user/init.c"
+					],
+					[
+						"user/sh.c",
+						"user/sh.c"
+					],
+					[
+						"spawn",
+						"lib/spawn.c"
+					],
+					[
+						"sched.c",
+						"kern/sched.c"
+					],
+					[
+						"types",
+						"inc/types.h"
+					],
+					[
+						"inc/li",
+						"inc/lib.h"
+					],
+					[
+						"env.h",
+						"lab/kern/env.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"window_id": 20,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
